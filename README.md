@@ -8,8 +8,12 @@ This system has 3 components:
   The management console allows sending simple queries to the server (whois/getworst).
   
 Basic Usage
+
 1.Run Fork-Based-Server 
-2.Run one or more TCP-IP-Client 
+
+2.Run one or more TCP-IP-Client
+
 3.Run UDS-Client 
+
 4.Type whois/getworst/grep commands and see the results from server
   
